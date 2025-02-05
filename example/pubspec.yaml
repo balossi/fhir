@@ -6,4 +6,4 @@ environment:
 
 dependencies:
   fhir: 
-    path: ../../fhir
+    git: https://github.com/balossi/fhir.git
